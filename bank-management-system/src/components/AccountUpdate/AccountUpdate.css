@@ -1,0 +1,62 @@
+.div-form {
+  display: block;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.update-form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-bottom: 10%;
+  padding: 2%;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+  width: 60%;
+}
+
+h1 {
+  color: #27261e;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-transform: uppercase;
+  font-size: 45px;
+  font-weight: normal;
+  line-height: 48px;
+  margin: 3% 0;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  padding: 2%;
+  text-shadow: 2px 2px 2px grey;
+  letter-spacing: 2px;
+}
+
+.gender-radio-btn label {
+  margin-bottom: 7%;
+}
+
+.marital-radio-btn label {
+  margin-bottom: 7%;
+}
+
+label {
+  font-weight: 500;
+}
+
+.dateOfRegistration {
+  text-align: right;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.error-text{
+  margin: 0;
+  padding-left: 15px;
+  color: red;
+  font-size: small;
+}

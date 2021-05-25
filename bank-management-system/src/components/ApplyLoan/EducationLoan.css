@@ -1,0 +1,17 @@
+.educationLoan-form {
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 2%;
+  width: 100%;
+}
+
+.education {
+  color: #27261e;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-transform: uppercase;
+  font-weight: normal;
+  line-height: 48px;
+  margin-bottom: 5%;
+  padding: 2%;
+  letter-spacing: 2px;
+}
